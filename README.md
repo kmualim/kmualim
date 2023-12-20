@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm James</h1>
+<h1 align="center">Hi 👋, I'm Kristy</h1>
 <h3 align="center">I'm a PhD Student at Stanford University </h3>
 
 - 🌱 I’m currently working on developing tools to aid in measuring global genetic diversity loss for conservation policy.
