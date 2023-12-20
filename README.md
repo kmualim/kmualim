@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently working on developing tools to aid in measuring global genetic diversity loss for conservation policy.
 
-- 📫 You can checkout my online resume at [kmualim.github.io](https://kmualim.github.io/files/cv.pdf)
+- 📊 Check out some of my latest work [google scholar](https://scholar.google.com/citations?user=0g59Rh8AAAAJ&hl=en) 
+
+- 📨 You can checkout my online resume at [kmualim.github.io](https://kmualim.github.io/files/cv.pdf)
 
 - ⚡ Fun fact: I loooove to cook and experimenting with new recipes!
 
